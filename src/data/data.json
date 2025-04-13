@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Elegant Leather Bag",
+    "year": "2024",
+    "brand": "ZARA",
+    "price": "$65.00",
+    "image": "/images/image-1.webp"
+  },
+  {
+    "id": 2,
+    "name": "Casual Tote Bag",
+    "year": "2023",
+    "brand": "MANGO",
+    "price": "$48.00",
+    "image": "/images/image-2.webp"
+  },
+  {
+    "id": 3,
+    "name": "Vintage Shoulder Bag",
+    "year": "2024",
+    "brand": "H&M",
+    "price": "$55.00",
+    "image": "/images/image-3.webp"
+  },
+  {
+    "id": 4,
+    "name": "Modern Crossbody",
+    "year": "2024",
+    "brand": "GUESS",
+    "price": "$72.00",
+    "image": "/images/image-4.webp"
+  },
+  {
+    "id": 5,
+    "name": "Minimalist Handbag",
+    "year": "2023",
+    "brand": "Stradivarius",
+    "price": "$60.00",
+    "image": "/images/image-5.webp"
+  }
+]
