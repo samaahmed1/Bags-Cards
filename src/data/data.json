@@ -38,5 +38,12 @@
     "brand": "Stradivarius",
     "price": "$60.00",
     "image": "/images/image-5.webp"
+  },{
+    "id": 3,
+    "name": "Vintage Shoulder Bag",
+    "year": "2024",
+    "brand": "H&M",
+    "price": "$55.00",
+    "image": "/images/image-6.webp"
   }
 ]
