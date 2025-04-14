@@ -1,20 +1,10 @@
 import bagsData from "../data/data.json" assert { type: "json" };
-const bags = bagsData as Bag[];
-interface Bag {
-  id: string;
-  name: string;
-  year: number;
-  brand: string;
-  price: string;
-  image: string;
-}
-
 export default function Card() {
   return (
     <>
       <section>
         <div className="container mx-auto px-5 flex justify-center items-center flex-wrap gap-10">
-          {bags.map((bag) => {
+          {bagsData.map((bag) => {
             return (
               <div key={bag.id} className="card flex flex-col gap-3 shadow p-5 w-[350px] rounded-md">
                 <img className="rounded-md w-fit h-[250px] m-auto" src={bag.image} alt={bag.name} />
